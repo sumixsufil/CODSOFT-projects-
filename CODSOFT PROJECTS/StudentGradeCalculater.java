@@ -7,9 +7,9 @@ public class StudentGradeCalculater {
      System.out.println("Welcome To The StudentGradeCalculater ");
     System.out.println("Enter your all GRade marks");
     System.out.println("----------------------------------------");
-    Scanner sc = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);                  // scanner  class jisse input liya jaaye user kai duara 
     
-    System.out.print("Enter your Math Grade  ");
+    System.out.print("Enter your Math Grade  ");         
     int math = sc.nextInt();
     System.out.print("Enter your Science  Grade  ");
     int science = sc.nextInt();
@@ -21,16 +21,16 @@ public class StudentGradeCalculater {
     int hindi  = sc.nextInt();
     System.out.print("Enter your Computer Sciecne   Grade  ");
     int  ComputerSciecne  =sc.nextInt();
-    int total = math + science + english + history + hindi + ComputerSciecne ;
-    int percentage = total / 6 ;
-    int PerSubjectMarks  = 100 ;
+    int total = math + science + english + history + hindi + ComputerSciecne ;       // total of all marks 
+    int percentage = total / 6 ;                                                         // formulla of  %
+    int PerSubjectMarks  = 100 ;        
     int TotalMarks = PerSubjectMarks ;
     int compartment = 33;
     System.out.println("----------------------------------------");
 
 
-    System.out.println("Your Total Marks Is Out Of 600 /"+total);
-    System.out.println("Your  Marks percentage  Is : "+percentage + "%");
+    System.out.println("Your Total Marks Is Out Of 600 /"+total);                // print of total marks
+    System.out.println("Your  Marks percentage  Is : "+percentage + "%");         // print of percentage 
 
    // Grade system using if-else  
     System.out.println("----------------------------------------");

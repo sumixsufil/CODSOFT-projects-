@@ -18,7 +18,7 @@
 | 2        | Student Grade Calculator      | Inputs subject marks, calculates percentage & assigns grade.    | ✅ Completed | [View Task 2](./https://github.com/sumixsufil/CODSOFT-projects-/blob/main/CODSOFT%20PROJECTS/StudentGradeCalculater.java) |
 | 3        | ATM Interface (Java OOP)      | Simulates ATM: withdraw, deposit, check balance using classes.  | ✅ Completed | [View Task 3](./https://github.com/sumixsufil/CODSOFT-projects-/blob/main/CODSOFT%20PROJECTS/AtmInterface.java) |
 | 4        | Currency Converter (API+Java) | Converts between currencies using real-time exchange rates.     | ✅ Completed | [View Task 4](./https://github.com/sumixsufil/CODSOFT-projects-/blob/main/CODSOFT%20PROJECTS/CurrencyConverter.java) |
-| 5        | Student Management System     | Console/GUI system to manage students with file storage.        | 🚧 Incomplete | [View Task 5](./Task5) |
+
 
 ---
 

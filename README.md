@@ -4,9 +4,8 @@
 📚 **Branch**: Computer Science and Engineering
 🎓 **Internship Domain**: Java Development  
 🗓️ **Batch**: June 2025 (B31)  
-📁 **Total Tasks Assigned**: 5  
+📁 **Total Tasks Assigned**: 4  
 📌 **Tasks Completed**: 4 / 5 ✅  
-🕒 **Task 5 - Work in Progress**
 
 ---
 
